@@ -1,0 +1,5 @@
+/path/to/subfolder1
+/path/to/subfolder2
+/path/to/subfolder3
+/path/to/subfolder4
+/path/to/subfolder5
